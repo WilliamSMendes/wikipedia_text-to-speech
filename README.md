@@ -1,2 +1,4 @@
 # research-wiki
-Pesquisa na wikipedia através do input do usuário, resume o conteúdo e grava em um arquivo de texto.
+
+
+Programa que pesquisa na Wikipedia e retorna um arquivo de texto e audio com o Google Text to Speech
