@@ -1,4 +1,3 @@
-# research-wiki
+# research wikipedia and text to speech
 
-
-Programa que pesquisa na Wikipedia e retorna um arquivo de texto e audio com o Google Text to Speech
+Programa que pesquisa na Wikipédia através do input do usuário, resume, grava em um arquivo de texto e o retorna com um áudio do Google Text to Speech.
